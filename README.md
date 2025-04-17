@@ -5,9 +5,11 @@ A simple Android application demonstrating a login screen implementation using K
 ## Features
 
 - Material Design UI components
-- View Binding
-- Basic input validation
+- View Binding for efficient view access
+- Basic input validation with error messages
 - Modern Android development practices
+- Clean and responsive UI
+- Password visibility toggle
 
 ## Requirements
 
@@ -28,6 +30,10 @@ A simple Android application demonstrating a login screen implementation using K
 - `activity_main.xml`: Login screen layout using Material Design components
 - `strings.xml`: String resources
 - `themes.xml`: App theme configuration
+
+## Branch Information
+
+This is the `feature/login-enhancement` branch where we'll be adding new features and improvements to the login functionality.
 
 ## License
 
